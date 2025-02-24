@@ -6,11 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program](https://github.com/j-rattigan/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/j-rattigan/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j-rattigan/threat-hunting-scenario-tor)**
 
 <hr/>
 
