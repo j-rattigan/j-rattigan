@@ -15,7 +15,7 @@ I'm passionate about ict as a whole from Infratructure, End User Computing cyber
 - - [vulnerability-management-program](https://github.com/j-rattigan/Projects/tree/main/Cyber/vulnerability-management-program)
 - - [Programmatic-Vulnerability-Remediations](https://github.com/j-rattigan/Projects/tree/main/Cyber/Programmatic-Vulnerability-Remediations)
  
-## 🤳 Connect With Me
+# 🤳 Connect With Me
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/jason-r-20a8961b1
 
