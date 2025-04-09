@@ -1,9 +1,10 @@
 # <a href="https://www.linkedin.com/in/jason-r-20a8961b1/">Jason Rattigan</a>'s Systems and Cybersecurity Engineer - Portfolio 🔐
+Experienced Systems Engineer with 15+ years in ICT infrastructure, systems administration, desktop support and solution delivery across complex enterprise environments.
 
-IT Professional with 15+ years of experience in infrastructure engineering and solution design. Proven track record in delivering technical solutions. Growing knowledge of cybersecurity principles, IAM, risk mitigation, and security best practices which I am currently enhancing through CompTIA Security+.
+I'm passionate about ict as a whole from Infratructure, End User Computing cybersecurity (growing in this field). I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving world of cybersecurity.
 
-I'm passionate about cybersecurity and growing in this field. I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving world of cybersecurity.
-
+# MS Learn
+- **https://learn.microsoft.com/en-us/users/jasonrattigan-6052/**
 
 # Study notes
 Study notes and learnings in format to suite my ADHD
