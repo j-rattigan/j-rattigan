@@ -15,7 +15,9 @@ Study notes and learnings in format to suite my ADHD
 - **[MS Intune Fundamentals](https://github.com/j-rattigan/Cloud-MS/tree/main/fundamentals/intune-fundamentals)**
 
 ### Associate
-- [AZ-104 - Microsoft Certified: Azure Administrator Associate][https://github.com/j-rattigan/Cloud-MS](https://github.com/j-rattigan/Cloud-MS/tree/main/associate/AZ-104)
+- **[AZ-104 - Microsoft Certified: Azure Administrator Associate](https://github.com/j-rattigan/Cloud-MS/tree/main/associate/AZ-104)**
+
+--
 
 ## 🛡️ [Cyber](https://github.com/j-rattigan/Cyber/tree/main)
 ## ⚠️ Vulnerability Management Projects
@@ -29,8 +31,11 @@ Study notes and learnings in format to suite my ADHD
 
 <hr/>
 
+--
+
 ## [PS>_] PowerShell
 
+--
 
 ## 🤳 Connect With Me
 
