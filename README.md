@@ -4,19 +4,10 @@ Experienced Systems Engineer with 15+ years in ICT infrastructure, systems admin
 I'm passionate about ict as a whole from Infratructure, End User Computing cybersecurity (growing in this field). I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving world of cybersecurity.
 
 # MS Learn
-- **https://learn.microsoft.com/en-us/users/jasonrattigan-6052/**
+**https://learn.microsoft.com/en-us/users/jasonrattigan-6052/**
 
-# Study notes
-Study notes and learnings in format to suite my ADHD
-
-## ☁️ [Cloud (MS)](https://github.com/j-rattigan/Cloud-MS/tree/main)
-### Fundamentals
-- **[AZ-900 - Microsoft Certified: Azure Fundamentals](https://github.com/j-rattigan/Cloud-MS/tree/main/fundamentals/azure-fundamentals-az-900)**
-- **[MS-900 - Microsoft 365 Certified: Fundamentals](https://github.com/j-rattigan/Cloud-MS/tree/main/fundamentals/m365-fundamentals-ms-900)**
-- **[MS Intune Fundamentals](https://github.com/j-rattigan/Cloud-MS/tree/main/fundamentals/intune-fundamentals)**
-
-### Associate
-- **[AZ-104 - Microsoft Certified: Azure Administrator Associate](https://github.com/j-rattigan/Cloud-MS/tree/main/associate/AZ-104)**
+# Learning Notes
+**https://github.com/j-rattigan/Learning/edit/main**
 
 ## 🛡️ [Cyber](https://github.com/j-rattigan/Cyber/tree/main)
 ## ⚠️ Vulnerability Management Projects
