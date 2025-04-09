@@ -10,7 +10,7 @@ I'm passionate about ict as a whole from Infratructure, End User Computing cyber
 - ## [Notes](https://github.com/j-rattigan/Learning/tree/main)
 
 # Projects
-- ## [Cybersecurity](https://github.com/j-rattigan/Projects/tree/main/Cyber)
+- ## Cybersecurity
 - - [threat-hunting-scenario-tor](https://github.com/j-rattigan/Projects/tree/main/Cyber/threat-hunting-scenario-tor)
 - - [vulnerability-management-program](https://github.com/j-rattigan/Projects/tree/main/Cyber/vulnerability-management-program)
 - - [Programmatic-Vulnerability-Remediations](https://github.com/j-rattigan/Projects/tree/main/Cyber/Programmatic-Vulnerability-Remediations)
