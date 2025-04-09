@@ -17,8 +17,6 @@ Study notes and learnings in format to suite my ADHD
 ### Associate
 - **[AZ-104 - Microsoft Certified: Azure Administrator Associate](https://github.com/j-rattigan/Cloud-MS/tree/main/associate/AZ-104)**
 
---
-
 ## 🛡️ [Cyber](https://github.com/j-rattigan/Cyber/tree/main)
 ## ⚠️ Vulnerability Management Projects
 
@@ -29,13 +27,7 @@ Study notes and learnings in format to suite my ADHD
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j-rattigan/threat-hunting-scenario-tor)**
 
-<hr/>
-
---
-
 ## [PS>_] PowerShell
-
---
 
 ## 🤳 Connect With Me
 
