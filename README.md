@@ -9,6 +9,12 @@ I'm passionate about ict as a whole from Infratructure, End User Computing cyber
 # Learning Notes
 - ## [Notes](https://github.com/j-rattigan/Learning/tree/main)
 
+# Projects
+- ## [Cybersecurity](https://github.com/j-rattigan/Projects/tree/main/Cyber)
+- - [threat-hunting-scenario-tor](https://github.com/j-rattigan/Projects/tree/main/Cyber/threat-hunting-scenario-tor)
+- - [vulnerability-management-program](https://github.com/j-rattigan/Projects/tree/main/Cyber/vulnerability-management-program)
+- - [Programmatic-Vulnerability-Remediations](https://github.com/j-rattigan/Projects/tree/main/Cyber/Programmatic-Vulnerability-Remediations)
+ 
 ## 🤳 Connect With Me
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/jason-r-20a8961b1
