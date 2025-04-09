@@ -4,10 +4,10 @@ Experienced Systems Engineer with 15+ years in ICT infrastructure, systems admin
 I'm passionate about ict as a whole from Infratructure, End User Computing cybersecurity (growing in this field). I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving world of cybersecurity.
 
 # MS Learn
-**https://learn.microsoft.com/en-us/users/jasonrattigan-6052/**
+**[Profile](https://learn.microsoft.com/en-us/users/jasonrattigan-6052/)**
 
 # Learning Notes
-**https://github.com/j-rattigan/Learning/edit/main**
+**[Notes](https://github.com/j-rattigan/Learning/edit/main)**
 
 ## 🛡️ [Cyber](https://github.com/j-rattigan/Cyber/tree/main)
 ## ⚠️ Vulnerability Management Projects
