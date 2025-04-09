@@ -29,7 +29,7 @@ Study notes and learnings in format to suite my ADHD
 
 <hr/>
 
-## ![PowerShell Logo](https://docs.microsoft.com/en-us/powershell/media/powershell-logo.png) PowerShell
+## [PS>_] PowerShell
 
 
 ## 🤳 Connect With Me
