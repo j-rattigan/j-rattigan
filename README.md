@@ -91,8 +91,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-rattigan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-rattigan&layout=compact&theme=tokyonight)
 
 ---
