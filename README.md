@@ -90,11 +90,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-rattigan&layout=compact&theme=tokyonight)
-
----
-
 ## 🔐 About Me
 
 Experienced Systems Engineer with 15+ years in ICT infrastructure, systems administration, desktop support, and solution delivery across complex enterprise environments.
